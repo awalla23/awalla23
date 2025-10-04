@@ -14,7 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🛠️ Security-Focused Python Projects
 
-- **[Simple Python AES File Encryption/Decryption Tool](https://github.com/awalla23/Python-Security-Projects/blob/main/Simple%20AES%20Encrypt-Decrypt)**
+- **[Simple Python AES File Encryption/Decryption Tool](https://github.com/awalla23/Python-Security-Projects/blob/main/README.md)**
 
 <hr/>
 
