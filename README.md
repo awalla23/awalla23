@@ -12,6 +12,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/awalla23/Threat-Hunting-Scenario-TOR/blob/main/README.md)**
 
+## 🛠️ Security-Focused Python Projects
+
+- **[Simple Python AES File Encryption/Decryption Tool]**
+
 <hr/>
 
 ## 🤳 Connect With Me
