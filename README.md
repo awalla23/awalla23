@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/awalla23/Threat-Hunting-Scenario-TOR/blob/main/README.md)**
-- **[Sudden Network Slowdown Scenario (Microsoft Defender)](https://github.com/awalla23/SuddenNetworkSlowdownThreatHunt.git)**
+- **[Sudden Network Slowdown Scenario (Microsoft Defender)](https://github.com/awalla23/SuddenNetworkSlowdownThreatHunt/blob/9ea8ecd45296ce3448f4ff92e865a8bd2743b7af/README.md)**
 
 ## 🛠️ Security-Focused Python Projects
 
